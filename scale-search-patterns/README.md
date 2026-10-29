@@ -105,7 +105,7 @@ download ([google-keywords-dataset](https://github.com/CaiqueDourado/google-keyw
 
 ## Next in this series
 
-Part 3 is the decision: how 1.73 million patterns and 154 thousand labels became about 80 sites, and which niches I
+[Part 3](https://medium.com/@caiquedourado/from-1-7-million-search-patterns-to-83-sites-how-i-chose-what-to-build-f764687dfe12) is the decision: how 1.73 million patterns and 154 thousand labels became about 80 sites, and which niches I
 dropped.
 
 **Links**

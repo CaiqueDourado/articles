@@ -109,7 +109,7 @@ qualquer um pode baixar ([google-keywords-dataset](https://github.com/CaiqueDour
 
 ## Próxima da série
 
-A parte 3 é a decisão: como 1,73 milhão de padrões e 154 mil rótulos viraram cerca de 80 sites, e quais nichos eu
+A [parte 3](../choosing-sites/README.pt-BR.md) é a decisão: como 1,73 milhão de padrões e 154 mil rótulos viraram cerca de 80 sites, e quais nichos eu
 deixei de lado.
 
 **Links**
