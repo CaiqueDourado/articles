@@ -134,7 +134,7 @@ próximos algoritmos da biblioteca:
 
 ## Próximos da série
 
-A parte 2 é sobre escala: a mesma ideia rodando sobre centenas de milhões de padrões e bilhões de comparações, passando
+A [parte 2](../scale-search-patterns/README.pt-BR.md) é sobre escala: a mesma ideia rodando sobre centenas de milhões de padrões e bilhões de comparações, passando
 por cinco bancos de dados. A parte 3 é a decisão: como esses padrões viraram cerca de 80 sites, e quais nichos eu
 deixei de lado.
 

@@ -134,8 +134,8 @@ them as the next algorithms of the library:
 
 ## Next in this series
 
-Part 2 is about scale: the same idea run over hundreds of millions of patterns and billions of comparisons, through
-five databases. Part 3 is the decision: how these patterns became about 80 sites, and which niches I dropped.
+[Part 2](https://medium.com/@caiquedourado/almost-400-million-search-patterns-five-databases-and-what-actually-worked-139cb4a28c4e) is about scale: the same idea run over hundreds of millions of patterns and billions of comparisons,
+through five databases. Part 3 is the decision: how these patterns became about 80 sites, and which niches I dropped.
 
 **Links**
 

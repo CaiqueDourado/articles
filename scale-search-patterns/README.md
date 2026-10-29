@@ -2,7 +2,7 @@
 
 *Grouping 38 million Google searches in 2018, and doing it again in 2026. Part 2 of 3.*
 
-[Leia em português](README.pt-BR.md) · Part 1: [Seven ways to turn millions of Google searches into page templates](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f)
+[Leia em português](README.pt-BR.md) · [On Medium](https://medium.com/@caiquedourado/almost-400-million-search-patterns-five-databases-and-what-actually-worked-139cb4a28c4e) · Part 1: [Seven ways to turn millions of Google searches into page templates](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f)
 
 ![Almost 400 million search patterns, five databases, and what actually worked](img/cover.png)
 
