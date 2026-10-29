@@ -1,0 +1,7 @@
+flowchart LR
+  A["hotéis baratos em salvador"] --> L["em cada palavra, tenta primeiro<br/>a chave mais longa do gazetteer<br/>(sem acento e sem caixa;<br/>chaves de até 3 letras exatas)"]
+  L --> H{"casou?"}
+  H -- "hotéis → Turismo" --> P1["[turismo]"]
+  H -- "salvador → Local > Cidade" --> P2["[local>cidade]"]
+  H -- não --> W["a palavra vai<br/>para o tokenizador"]
+  P1 & P2 & W --> R["[turismo] barat [local>cidade]<br/>(cada marcador é um token)"]

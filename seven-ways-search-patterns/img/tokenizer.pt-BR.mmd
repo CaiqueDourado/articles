@@ -1,0 +1,8 @@
+flowchart LR
+  A["Como fazer bolo de cenoura"] --> B["minúsculas,<br/>sem acentos,<br/>sem pontuação nas pontas"]
+  B --> C{"stopword?<br/>(NLTK menos para, mais,<br/>quando, como, muito,<br/>qual, pelo, pelos)"}
+  C -- "sim: de" --> X["descartada"]
+  C -- não --> E{"3 caracteres<br/>ou mais?"}
+  E -- não --> X
+  E -- sim --> D["stemmer brasileiro do Lucene<br/>como → com · fazer → faz<br/>bolo → bol · cenoura → cenour"]
+  D --> F["tokens<br/>com faz bol cenour"]

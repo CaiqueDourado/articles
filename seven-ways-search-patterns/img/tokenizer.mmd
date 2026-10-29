@@ -1,0 +1,8 @@
+flowchart LR
+  A["Como fazer bolo de cenoura"] --> B["lower case,<br/>accents folded,<br/>edge punctuation removed"]
+  B --> C{"stopword?<br/>(NLTK minus para, mais,<br/>quando, como, muito,<br/>qual, pelo, pelos)"}
+  C -- "yes: de" --> X["dropped"]
+  C -- no --> E{"3 or more<br/>characters?"}
+  E -- no --> X
+  E -- yes --> D["Lucene Brazilian stemmer<br/>como → com · fazer → faz<br/>bolo → bol · cenoura → cenour"]
+  D --> F["tokens<br/>com faz bol cenour"]

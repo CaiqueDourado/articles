@@ -1,0 +1,8 @@
+flowchart LR
+  K["busca<br/>como fazer bolo de cenoura"] --> T["tokenizador<br/>com faz bol cenour"]
+  T --> V["1 prefixo"] --> C["2 sequência"] --> S["3 skip-gram"] --> B["4 saco de palavras"]
+  K --> E["troca de entidades<br/>gazetteer: bolo de cenoura → [comida]"]
+  E --> T2["com faz [comida]"]
+  T2 --> EP["5 prefixo com entidade"] --> EC["6 sequência com entidade"] --> ES["7 skip-gram com entidade"]
+  V & C & S & B & EP & EC & ES --> A["agrega todas as buscas<br/>contagem, volume, CPC,<br/>faixas de 1 a 20"]
+  A --> H["curadoria humana<br/>rótulo: AdSense, afiliados,<br/>receitas, preços…"]

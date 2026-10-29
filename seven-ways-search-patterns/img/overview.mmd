@@ -1,0 +1,8 @@
+flowchart LR
+  K["search<br/>como fazer bolo de cenoura"] --> T["tokenizer<br/>com faz bol cenour"]
+  T --> V["1 prefix"] --> C["2 contiguous"] --> S["3 skip-gram"] --> B["4 bag of words"]
+  K --> E["entity replacement<br/>gazetteer: bolo de cenoura → [comida]"]
+  E --> T2["com faz [comida]"]
+  T2 --> EP["5 entity prefix"] --> EC["6 entity contiguous"] --> ES["7 entity skip-gram"]
+  V & C & S & B & EP & EC & ES --> A["aggregate all searches<br/>count, volume, CPC,<br/>1–20 bands"]
+  A --> H["human curation<br/>label: AdSense, affiliates,<br/>recipes, prices…"]
