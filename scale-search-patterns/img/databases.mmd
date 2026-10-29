@@ -1,0 +1,10 @@
+flowchart LR
+  S[("SQL Server<br/>source of truth<br/>searches, patterns,<br/>search ↔ pattern links")]
+  S -- "bulk 50–200k docs" --> E[("Elasticsearch<br/>terms + top_hits:<br/>top patterns and<br/>their biggest searches")]
+  E -- "scroll + SqlBulkCopy<br/>(396 M skip-gram docs)" --> S
+  S -- "COPY BINARY" --> P[("PostgreSQL<br/>synced copy of<br/>the metrics table")]
+  P -- "new rows back,<br/>id = -1 when copied" --> S
+  S -- "multi-row INSERT" --> M[("MySQL<br/>replica")]
+  M -- "up to 100 M searches as JSON" --> L["Lingo4G<br/>commercial<br/>clustering engine"]
+  F["text files<br/>60 M lines per pack"] --> G[("MongoDB<br/>n-gram counts,<br/>$addToSet")]
+  G --> S

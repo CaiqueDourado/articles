@@ -1,0 +1,6 @@
+flowchart LR
+  K[("searches<br/>54.95 M rows")] --> A["7 algorithms<br/>(C#)"]
+  A --> P[("search → pattern pairs<br/>141 M rows")]
+  P --> G["GROUP BY pattern<br/>count, sum, avg<br/>NTILE(20) bands"]
+  G --> T[("1.73 M patterns<br/>one row each")]
+  T --> H["curation screens<br/>154 k labels by hand"]

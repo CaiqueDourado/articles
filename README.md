@@ -7,8 +7,8 @@ Textos longos sobre os sistemas por trás dos meus dados e bibliotecas abertos, 
 
 | # | English | Português | Code and data |
 |---|---|---|---|
-| 1 | [Seven ways to turn millions of Google searches into page templates](seven-ways-search-patterns/README.md) | [Sete jeitos de transformar milhões de buscas do Google em modelos de página](seven-ways-search-patterns/README.pt-BR.md) | [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner) · [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset) · [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer) |
-| 2 | *coming soon: hundreds of millions of patterns, five databases* | *em breve: centenas de milhões de padrões, cinco bancos* | |
+| 1 | [Seven ways to turn millions of Google searches into page templates](seven-ways-search-patterns/README.md) · [Medium](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f) | [Sete jeitos de transformar milhões de buscas do Google em modelos de página](seven-ways-search-patterns/README.pt-BR.md) | [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner) · [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset) · [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer) |
+| 2 | [Almost 400 million search patterns, five databases, and what actually worked](scale-search-patterns/README.md) | [Quase 400 milhões de padrões de busca, cinco bancos de dados e o que de fato funcionou](scale-search-patterns/README.pt-BR.md) | [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset) |
 | 3 | *coming soon: how the patterns became about 80 sites* | *em breve: como os padrões viraram cerca de 80 sites* | |
 
 Each folder has the text in both languages, the images (`img/`) and the scripts or diagram sources that made them.

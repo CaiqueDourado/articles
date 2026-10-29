@@ -2,7 +2,7 @@
 
 *How I grouped 38 million searches to choose which sites to build (2017–2019). Part 1 of 3.*
 
-[Leia em português](README.pt-BR.md)
+[Leia em português](README.pt-BR.md) · [On Medium](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f)
 
 ![Seven ways to turn millions of Google searches into page templates](img/cover.png)
 
