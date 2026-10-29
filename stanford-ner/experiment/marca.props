@@ -1,0 +1,19 @@
+# Stanford NER properties used in the 2026 rerun: the 2018 file with two fixes (training file, and map without spaces).
+trainFile = train.tsv
+serializeTo = marca.ser.gz
+map = word=0,answer=1
+useClassFeature = true
+UseWord = true
+useNGrams = true
+noMidNGrams = true
+maxNGramLeng = 6
+usePrev = true
+useNext = true
+useSequences = true
+usePrevSequences = true
+maxLeft = 2
+useTypeSeqs = true
+useTypeSeqs2 = true
+useTypeySequences = true
+wordShape = chris2useLC
+useDisjunctive = true

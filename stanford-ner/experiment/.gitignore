@@ -1,0 +1,5 @@
+# files made by run.sh
+*.tsv
+*.out
+*.ser.gz
+train_brands.json
