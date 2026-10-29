@@ -2,7 +2,7 @@
 
 *Similar is not the same: what each algorithm finds, and what actually decided.*
 
-[Leia em português](README.pt-BR.md)
+[Leia em português](README.pt-BR.md) · [On Medium](https://medium.com/@caiquedourado/metaphone-soundex-n-grams-and-minhash-on-brazilian-product-names-d6f67745ee4d)
 
 ![Metaphone, Soundex, n-grams and MinHash on Brazilian product names](img/cover.png)
 

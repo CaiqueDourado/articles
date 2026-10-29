@@ -2,7 +2,7 @@
 
 *Hash perceptual em fotos de produto, o hash que mudou na AWS e por que 64 bits não bastaram.*
 
-[Read in English](README.md)
+[Read in English](README.md) · [Em inglês no Medium](https://medium.com/@caiquedourado/finding-the-same-photo-across-7-179-stores-a4e94bc93777)
 
 ![Achando a mesma foto em 7.179 lojas](img/cover.pt-BR.png)
 
