@@ -2,7 +2,7 @@
 
 *Sexo, geração e lugar a partir de um nome, um CEP e um telefone, com o IBGE e outras fontes grátis.*
 
-[Read in English](README.md)
+[Read in English](README.md) · [Em inglês no Medium](https://medium.com/@caiquedourado/enriching-sign-up-data-with-open-apis-37388f435398)
 
 ![Enriquecendo cadastros com APIs abertas](img/cover.pt-BR.png)
 

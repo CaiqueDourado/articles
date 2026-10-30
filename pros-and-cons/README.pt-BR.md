@@ -2,7 +2,7 @@
 
 *O que a fórmula de 2020 errou em 2,87 milhões de avaliações brasileiras, e a correção.*
 
-[Read in English](README.md)
+[Read in English](README.md) · [Em inglês no Medium](https://medium.com/@caiquedourado/sentence-splitting-sentiment-analysis-pros-and-cons-e3907d8d1d96)
 
 ![Divisão de sentenças + análise de sentimentos = prós e contras](img/cover.pt-BR.png)
 

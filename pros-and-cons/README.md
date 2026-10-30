@@ -2,7 +2,7 @@
 
 *What the 2020 formula got wrong on 2.87 million Brazilian reviews, and the fix.*
 
-[Leia em português](README.pt-BR.md)
+[Leia em português](README.pt-BR.md) · [On Medium](https://medium.com/@caiquedourado/sentence-splitting-sentiment-analysis-pros-and-cons-e3907d8d1d96)
 
 ![Sentence splitting + sentiment analysis = pros and cons](img/cover.png)
 

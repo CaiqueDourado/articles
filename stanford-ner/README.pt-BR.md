@@ -2,7 +2,7 @@
 
 *Minhas anotações de 2018, e uma reexecução em 2026 que mede o que o modelo aprende além da lista.*
 
-[Read in English](README.md)
+[Read in English](README.md) · [Em inglês no Medium](https://medium.com/@caiquedourado/training-stanford-ner-on-portuguese-with-a-dictionary-e3fcdee53bcd)
 
 ![Treinando o Stanford NER em português com um dicionário](img/cover.pt-BR.png)
 
