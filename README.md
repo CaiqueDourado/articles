@@ -22,6 +22,18 @@ Textos longos sobre os sistemas por trás dos meus dados e bibliotecas abertos, 
 | 4 | [Enriching sign-up data with open APIs](open-apis/README.md) · [Medium](https://medium.com/@caiquedourado/enriching-sign-up-data-with-open-apis-37388f435398) | [Enriquecendo cadastros com APIs abertas](open-apis/README.pt-BR.md) | [ibge-nomes](https://github.com/CaiqueDourado/ibge-nomes) · [PtBr.Text](https://github.com/CaiqueDourado/PtBr.Text) · [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil) · [brazilian-names-surnames](https://github.com/CaiqueDourado/brazilian-names-surnames) |
 | 5 | [Training Stanford NER on Portuguese with a dictionary](stanford-ner/README.md) · [Medium](https://medium.com/@caiquedourado/training-stanford-ner-on-portuguese-with-a-dictionary-e3fcdee53bcd) | [Treinando o Stanford NER em português com um dicionário](stanford-ner/README.pt-BR.md) | [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer) · [brazilian-ecommerce-products](https://github.com/CaiqueDourado/brazilian-ecommerce-products) |
 
+## Blog posts · Posts do blog
+
+Shorter posts in Portuguese on [caiquedourado.com.br](https://caiquedourado.com.br), where some of these articles started.
+Posts mais curtos, em português, no blog, onde alguns destes artigos começaram.
+
+| Year | Post (Portuguese) | Related |
+|---|---|---|
+| 2023 | [O que aprendi debulhando 50 milhões de termos de busca no Google?](https://caiquedourado.com.br/o-que-aprendi-debulhando-50-milhoes-de-termos-de-busca-no-google/) | [What I learned squeezing 50 million searches](fifty-million-searches/README.md) · [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset) |
+| 2023 | [Lançamento SuperNichos.com](https://caiquedourado.com.br/lancamento-supernichos-com/) | [SuperNichos.com](https://supernichos.com) |
+| 2024 | [Vídeo sobre o processo de validação e lançamento da SuperNichos](https://caiquedourado.com.br/video-muito-legal-do-bruno-okamoto-sobre-o-processo-de-validacao-e-lancamento-da-supernichos/) | [What I learned squeezing 50 million searches](fifty-million-searches/README.md) |
+| 2024 | [Encontrei mais de 200 mil domínios de uma única palavra disponíveis para registro](https://caiquedourado.com.br/encontrei-mais-de-200-mil-dominios-de-uma-unica-palavra-disponiveis-para-registro/) | |
+
 Each folder has the text in both languages, the images (`img/`) and the scripts or diagram sources that made them.
 
 Text and images: [CC BY 4.0](LICENSE). Scripts: MIT. By [Caique Dourado](https://github.com/CaiqueDourado).
